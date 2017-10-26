@@ -8,7 +8,7 @@ ML Algorithms are classified as Supervised Learning or Unsupervised Learning.
 
 
 |                         Supervised Learning                     |                 Unsupervised Learning                    |
-------------------------------------------------------------------------------------------------------------------------------
+| -------------------------------------------------------------------------------------------------------------------------- |
 |In Supervised Learning there is a connect between                |                                                          |
 |  input and ouput i.e. the data is labelled.                     |                                                          |
 |  We know how our input and output looks like.                   |                                                          |
