@@ -4,4 +4,4 @@
 ## Machine Learning
   A program which can solve a problem P by learning from data D and improves its accuracy A overtime.
 
-![Machine Learning Overview]({{ site.url }}/ML Overview invert Colors.png)
+![Machine Learning Overview]({{ site.url }}/machine-learning/ML Overview invert Colors.png)
